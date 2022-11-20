@@ -1,4 +1,4 @@
-PHP Hotel Booking App# PHP-Hotel-Booking-App
+# PHP-Hotel-Booking-App
 OOP PHP Hotel Booking App
 
 Booking Application using PHP
