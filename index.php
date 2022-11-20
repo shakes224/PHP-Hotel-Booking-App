@@ -23,8 +23,6 @@ error_reporting(E_ALL);
 <body>
     <!-- a Form, that takes in the attributes -->
     <div class="login-block">
-        <!-- Everything on the form is required and the user will be unable to carry on to the next page without filling this in -->
-        <!-- <img class="image" src="https://uhdwallpapers.org/uploads/cache/3028758832/lion-king-in-wild-africa_400x225-mm-90.webp" alt="Lion image"> -->
         <div class="booking-form">
             <div class="yourDetails">
                 <form action="compare.php" method="POST">
